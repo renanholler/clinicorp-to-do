@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:renanholler/clinicorp-api.git
+[submodule "front"]
+	path = front
+	url = git@github.com:renanholler/clinicorp-front.git
